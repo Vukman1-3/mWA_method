@@ -1,2 +1,0 @@
-# mWA_method
-
